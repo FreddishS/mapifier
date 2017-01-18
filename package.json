@@ -1,13 +1,17 @@
 {
   "name": "mapifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool that does two way mapping of objects",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "Fredrik Seidl",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/FreddishS/mapifier.git"
+  },
   "dependencies": {
     "lodash": "^4.17.4"
   },
