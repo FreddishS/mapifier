@@ -13,7 +13,7 @@ to the original structure.
 
 ## Example
 ```javascript
-const Mapifier = require('./lib/index');
+const Mapifier = require('mapifier');
 
 const mapifier = new Mapifier({
   'sourceProperty' : 'destinationProperty',
